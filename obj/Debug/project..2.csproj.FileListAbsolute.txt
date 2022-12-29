@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\project..2\project..2\bin\Debug\project._._2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\project..2\project..2\bin\Debug\project._._2.exe
+c:\users\user\documents\visual studio 2015\Projects\project..2\project..2\bin\Debug\project._._2.pdb
+c:\users\user\documents\visual studio 2015\Projects\project..2\project..2\obj\Debug\project._._2.exe
+c:\users\user\documents\visual studio 2015\Projects\project..2\project..2\obj\Debug\project._._2.pdb
